@@ -1,7 +1,7 @@
 
-Hello, 👋 I am  Carl Chang, a software maker, consultant and Gopher.
+Hello, 👋 I am  Carl Chang, a software maker and consultant.
 
-I am building and maintaining
+### I am building and maintaining ：
 
 - [spider-rs-demo](https://github.com/carlchang/spider-rs-demo/) 
 
