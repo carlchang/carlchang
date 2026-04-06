@@ -1,5 +1,5 @@
 
-Hello, 👋 I am  Carl Chang, a software maker and consultant.
+Hello, 👋 I am  Carl Chang, a software maker, consultant and gopher.
 
 ### I am building and maintaining ：
 
